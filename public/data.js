@@ -1,6 +1,6 @@
 window.config = {
-  copyright: "© 2021 BY <a href='https://osuu.net/' target='_blank'>OSUU</a>",
-  beian: "<a href='https://beian.miit.gov.cn/' target='_blank'>备案号</a>",
+  copyright: "Copyright © 2023 All Rights Reserved<a href='/' target='_blank'></a>",
+  beian: "<a href='https://beian.miit.gov.cn/' target='_blank'></a>",
   menuList: [
     {
       name: "精品推荐",
