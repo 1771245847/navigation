@@ -91,12 +91,6 @@ window.config = {
           url: "http://mint-ui.github.io/?from=thosefree.com#!/zh-cn"
         },
         {
-          name: "weui",
-          desc: "微信团队为微信内网页和微信小程序量身设计的的基础样式库",
-          icon: "./ico/weui.ico",
-          url: "https://weui.io/"
-        },
-        {
           name: "weui+",
           desc: "在weui和zepto基础上开发的增强UI组件",
           icon: "./ico/weuiplus.png",
@@ -114,12 +108,6 @@ window.config = {
       name: "前端框架",
       icon: "geek-mobankuangjia-xianxing",
       list: [
-        {
-          name: "React",
-          desc: "用于构建用户界面的Javscript库",
-          icon: "./ico/react.png",
-          url: "https://reactjs.org/"
-        },
         {
           name: "Vue",
           desc: "构建数据驱动的web渐进式框架",
@@ -223,12 +211,6 @@ window.config = {
           url: "https://segmentfault.com/"
         },
         {
-          name: "CNode",
-          desc: "Node.js专业中文社区",
-          icon: "./ico/cnodejs.png",
-          url: "https://cnodejs.org/"
-        },
-        {
           name: "GitHub",
           desc: "一个面向开源及私有软件项目的托管平台",
           icon: "./ico/github.png",
@@ -245,12 +227,6 @@ window.config = {
           desc: "印记中文是最权威是技术中文文档社区",
           icon: "./ico/docschina.png",
           url: "https://docschina.org/"
-        },
-        {
-          name: "W3cplus",
-          desc: "W3cplus是一个致力于推广国内前端行业的技术博客",
-          icon: "./ico/w3cplus.png",
-          url: "https://www.w3cplus.com/"
         },
         {
           name: "菜鸟教材",
