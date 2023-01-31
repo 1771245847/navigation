@@ -1,5 +1,39 @@
 window.config = {
   copyright: "Copyright © 2023 All Rights Reserved<a href='/' target='_blank'></a>",
+  </li>
+</p>本网站已运行: <span id="run_time" style="color:#0ef395"></span>
+            </center>
+            <script>
+                function runTime() {
+                    var d = new Date(), str = '';
+                    BIrthDay = new Date("01,01,2023");
+                    today = new Date();
+                    timeold = (today.getTime() - BIrthDay.getTime());
+                    sectimeold = timeold / 1000
+                    secondsold = Math.floor(sectimeold);
+                    msPerDay = 24 * 60 * 60 * 1000
+                    msPerYear = 365 * 24 * 60 * 60 * 1000
+                    e_daysold = timeold / msPerDay
+                    e_yearsold = timeold / msPerYear
+                    daysold = Math.floor(e_daysold);
+                    yearsold = Math.floor(e_yearsold);
+                    //str = yearsold + "年";
+                    str += daysold + "天";
+                    str += d.getHours() + '时';
+                    str += d.getMinutes() + '分';
+                    str += d.getSeconds() + '秒';
+                    return str;
+                }
+                setInterval(function () { $('#run_time').html(runTime()) }, 1000);
+            </script>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+        </div>
   beian: "<a href='https://beian.miit.gov.cn/' target='_blank'></a>",
   menuList: [
     {
