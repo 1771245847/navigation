@@ -6,7 +6,7 @@
       <span :class="['osuu', $store.state.isMenuLayout ? 'geek-shouqi1' :'geek-zhankai1']"></span>
     </div>
     <div class="github">
-      <a href="https://github.com/osuuu/navigation" target="_blank">GitHub </a>
+      <a href="https://github.com/1771245847/navigation" target="_blank">GitHub </a>
     </div>
 
     <div class="pages-search">
