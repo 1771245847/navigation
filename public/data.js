@@ -91,12 +91,6 @@ window.config = {
           url: "http://mint-ui.github.io/?from=thosefree.com#!/zh-cn"
         },
         {
-          name: "weui+",
-          desc: "在weui和zepto基础上开发的增强UI组件",
-          icon: "./ico/weuiplus.png",
-          url: "https://weui.shanliwawa.top/weui/index.html"
-        },
-        {
           name: "DataV",
           desc: "Vue 大屏数据展示组件库",
           icon: "./ico/datav.ico",
