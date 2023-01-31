@@ -1,9 +1,8 @@
 # navigation
-<h2>纯前端开发网址导航，适合自用</h2>
+
+<h2>Web-Site</h2>
 
 <img src="http://res.eemu.cn/LightPicture/2022/01/c6db3cd886d44e81.png" alt="LightPicture"/>
-
-[演示地址](http://h234.cn)
 
 ###  安装依赖
 
