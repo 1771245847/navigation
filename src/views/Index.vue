@@ -12,7 +12,7 @@
     <div class="pages-search">
       <div class="pages-search-bg"></div>
       <div class="pages-search-logo">
-        <img src="../assets/images/logo.png" alt="h234.cn">
+        <img src="../assets/images/logo.png" alt="1771245847">
       </div>
       <div class="pages-search-input">
         <Input prefix="ios-contact" v-model="searchValue" search enter-button="搜索" size="large"
