@@ -28,12 +28,6 @@ window.config = {
             </script>
                 </a>
               </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </footer>
-        </div>
   beian: "<a href='https://beian.miit.gov.cn/' target='_blank'></a>",
   menuList: [
     {
