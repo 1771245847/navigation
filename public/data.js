@@ -1,5 +1,5 @@
 window.config = {
-  copyright: "Copyright © 2023 All Rights Reserved<a href='/' target='_blank'></a>",
+  copyright: "Copyright © 2025 All Rights Reserved<a href='/' target='_blank'></a>",
   beian: "<a href='https://beian.miit.gov.cn/' target='_blank'></a>",
   menuList: [
     {
