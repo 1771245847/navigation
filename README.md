@@ -1,8 +1,10 @@
 # navigation
 
-<h2>残月导航</h2>
+残月导航
 
-<img src="http://res.eemu.cn/LightPicture/2022/01/c6db3cd886d44e81.png" alt="LightPicture"/>
+前端vue网址导航
+
+https://github.com/osuuu/navigation
 
 ###  安装依赖
 
