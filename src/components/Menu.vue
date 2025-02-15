@@ -1,7 +1,7 @@
 <template>
   <div class="menus" :style="`width:${$store.state.isMenuLayout ? '220' :'0'}px`">
     <div class="navbar-brand-box">
-      <img src="../assets/images/logo.png" />
+      <img src="../public/favicon.ico" />
     </div>
     <Menu v-show="$store.state.isMenuLayout" :active-name="activeName" width="auto">
       <a v-for="item in menuList" :href="'#'+item.name" :key="item.name">
