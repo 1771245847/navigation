@@ -25,10 +25,10 @@ window.config = {
           url: "https://www.huaweicloud.com/"
         },
         {
-          name: "捕风阁",
-          desc: "捕风，也捕你",
-          icon: "./ico/osuu.png",
-          url: "https://www.osuu.net/"
+          name: "残月引导页",
+          desc: "残月个人引导页",
+          icon: "./ico/favicon.ico",
+          url: "https://1771245847.github.io/"
         },
         {
           name: "中华珍宝阁",
