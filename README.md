@@ -4,8 +4,6 @@
 
 前端vue网址导航
 
-https://github.com/osuuu/navigation
-
 ###  安装依赖
 
 ~~~
