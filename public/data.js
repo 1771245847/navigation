@@ -27,7 +27,7 @@ window.config = {
         {
           name: "残月引导页",
           desc: "残月个人引导页",
-          icon: "./ico/favicon.ico",
+          icon: "https://1771245847.github.io/favicon.ico",
           url: "https://1771245847.github.io/"
         },
         {
